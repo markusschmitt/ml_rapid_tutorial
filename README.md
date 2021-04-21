@@ -1,6 +1,8 @@
 # Rapid tutorial for a few machine learning techniques
 
-## Setup Python environment
+These are a few jupyter notebooks introducing basics of supervised learning, generative modelling, and reinforcement learning.
+
+## Set up Python environment
 
 How to set up jupyter notebook to work with anaconda environments: https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a
 
