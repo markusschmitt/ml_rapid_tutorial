@@ -5,7 +5,15 @@ We discuss basic examples implemented in
 * Python with [JAX](https://github.com/google/jax) and [Flax](https://github.com/google/flax)
 * Julia using the [Flux](https://fluxml.ai/Flux.jl/stable/) package.
 
-## Set up Python environment
+## Tutorials
+
+* **Supervised learning** to classify the MNIST hand-written digits data set.
+
+## Physics examples
+
+* **Supervised learning** to identify the phase transition of the classical Ising model.
+
+# Set up Python environment
 
 If you have [anaconda](https://www.anaconda.com/products/individual) installed, you can set up an environment with all required packages as follows:
 
