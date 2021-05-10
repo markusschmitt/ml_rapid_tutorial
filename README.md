@@ -11,7 +11,7 @@ We discuss basic examples implemented in
 
 ## Physics examples
 
-* **Supervised learning** to identify the phase transition of the classical Ising model.
+* [Supervised learning to identify the phase transition of the classical Ising model](https://github.com/markusschmitt/ml_rapid_tutorial/tree/master/physics_examples/ex1_ising_phase_transition)
 
 # Set up Python environment
 
