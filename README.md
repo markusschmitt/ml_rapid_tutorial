@@ -7,7 +7,8 @@ We discuss basic examples implemented in
 
 ## Tutorials
 
-* **Supervised learning** to classify the MNIST hand-written digits data set.
+* [**Supervised learning** to classify the MNIST hand-written digits data set.](https://github.com/markusschmitt/ml_rapid_tutorial/tree/master/supervised_learning)
+* [**Unsupervised learning** to learn writing MNIST-like digits.](https://github.com/markusschmitt/ml_rapid_tutorial/tree/master/unsupervised_learning)
 
 ## Physics examples
 
