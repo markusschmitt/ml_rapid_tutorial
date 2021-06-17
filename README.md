@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markusschmitt/ml_rapid_tutorial/HEAD)
+
 # Rapid tutorial for a few machine learning techniques
 
 These are a few jupyter notebooks introducing basics of supervised learning, generative modelling, and reinforcement learning.
