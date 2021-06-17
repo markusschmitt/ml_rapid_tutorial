@@ -1,0 +1,6 @@
+tensorflow==2.4.0
+tensorflow-datasets==1.2.0
+matplotlib==3.4.1
+jax==0.2.12
+jaxlib==0.1.65
+flax==0.3.3
